@@ -5,6 +5,10 @@ package com.mycompany.csc229_211review_lab02hw;
  * @author MoaathAlrajab
  */
 public class Student {
+
+    Student(String james, int i) {
+        
+    }
 	// ToDo 1: Make this class a child of Person
 	
 	// ToDo 2: Fix the resulting errors
