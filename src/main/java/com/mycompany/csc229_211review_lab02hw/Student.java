@@ -1,7 +1,7 @@
 package com.mycompany.csc229_211review_lab02hw;
-
-/**
- *
+//
+///**
+/*
  * @author MoaathAlrajab
  */
 public class Student {
@@ -14,15 +14,3 @@ public class Student {
 	// ToDo 4: Add comments to your code
 
 }
-
-class Student extends Person {
-    private String name;
-    private String address;
-    private short age;
-    
-  private double GPA;
-  
-  // GPA instance variable 
-    
-}
-
