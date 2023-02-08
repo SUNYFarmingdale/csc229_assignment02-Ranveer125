@@ -29,14 +29,16 @@ public class Student extends Person {
          public Student(String name, short age) {
              super(name, age);
              address="";
-    }
-         
+    }        
+       // Constructor that will accept our parameters  
+      
         public Student(String name, short age, double GPA, String address) {
         super(name, age);
         
         this.GPA = GPA;
         this.address = address;
     }
+     
         
     @Override
 
