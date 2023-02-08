@@ -1,5 +1,4 @@
 package com.mycompany.csc229_211review_lab02hw;
-
 //
 ///**
 /*
@@ -54,7 +53,6 @@ public class Student extends Person {
 
     }
 
-   
 	// ToDo 1: Make this class a child of Person
 	
 	// ToDo 2: Fix the resulting errors
