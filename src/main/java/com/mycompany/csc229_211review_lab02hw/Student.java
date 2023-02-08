@@ -52,7 +52,6 @@ public class Student extends Person {
         this.address=address;
 
     }
-
 	// ToDo 1: Make this class a child of Person
 	
 	// ToDo 2: Fix the resulting errors
