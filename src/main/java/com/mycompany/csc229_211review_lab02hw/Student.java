@@ -56,8 +56,9 @@ public class Student extends Person {
 
     }
     
-       @Override
-
+      
+    @Override
+  
     public String toString() {
 
         return getName()+" () "+getAge()+"() years old, currently resides at "+getAddress()+" holds a "+
@@ -69,6 +70,7 @@ public class Student extends Person {
     }
 
 }
+
 	// ToDo 1: Make this class a child of Person
 	
 	// ToDo 2: Fix the resulting errors
