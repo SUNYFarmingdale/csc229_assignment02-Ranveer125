@@ -47,7 +47,7 @@ public class Student extends Person {
         return address;
  
     }
-    // Override Method for Implementation on Address
+    // Create an Override Method for Implementation on Address
 
     @Override
 
@@ -55,6 +55,20 @@ public class Student extends Person {
         this.address=address;
 
     }
+    
+       @Override
+
+    public String toString() {
+
+        return getName()+" () "+getAge()+"() years old, currently resides at "+getAddress()+" holds a "+
+
+                getGPA()+" GPA score.";
+
+//Add a toString method to print output
+
+    }
+
+}
 	// ToDo 1: Make this class a child of Person
 	
 	// ToDo 2: Fix the resulting errors
@@ -63,7 +77,7 @@ public class Student extends Person {
 	
 	// ToDo 4: Add comments to your code
 
-}
+
 
 
 
