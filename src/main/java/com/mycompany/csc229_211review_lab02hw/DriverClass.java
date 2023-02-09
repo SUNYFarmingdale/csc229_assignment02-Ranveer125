@@ -2,6 +2,7 @@ package com.mycompany.csc229_211review_lab02hw;
 
 import java.util.Scanner;
 
+
 /**
  *
  * @author MoaathAlrajab
