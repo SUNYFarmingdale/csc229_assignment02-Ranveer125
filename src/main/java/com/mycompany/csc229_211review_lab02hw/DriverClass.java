@@ -38,8 +38,7 @@ public class DriverClass {
                    System.out.println(std1);
         
 	// Implemented toString method inside Student Class
-        
-        
+               
 		// ToDo 9: add comments and explain your code
 		
 		// ToDo 10: submit using a pull request.
